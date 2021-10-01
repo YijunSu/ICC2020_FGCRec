@@ -48,7 +48,7 @@ python recommendation.py
 ## Citation
 Please cite our paper if you use the code or datasets:
 ```
-@inproceedings{su2020fgrec,
+@inproceedings{suicc2020fgcrec,
   title={FGCRec: Fine-Grained Geographical Characteristics Modeling for Point-of-Interest Recommendation},
   author={Yijun Su, Xiang Li, Baoping Liu, Daren Zha, Ji Xiang, Wei Tang and Neng Gao},
   booktitle={IEEE International Conference on Communications}, 
