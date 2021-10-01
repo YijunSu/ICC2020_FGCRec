@@ -5,6 +5,16 @@
 FGCRec: Fine-Grained Geographical Characteristics Modeling for Point-of-Interest Recommendation (ICC 2020)
 
 ## Performance
+
+```
+Details:
+
+| Dataset    | Precision@10 | Precision@20 | Recall@10   | Recall@20   |
+| ---------- | ------------ | -------------| ------------| ----------- |
+| Foursquare | 0.028        | 0.0225       | 0.0446      | 0.071       |
+| Gowalla    | 0.0354       | 0.0298       | 0.0365      | 0.0611      |
+```
+
 - The performance of our framework on Foursquare.
 
 ![The performance of our framework on Foursquare](Foursquare.png)
